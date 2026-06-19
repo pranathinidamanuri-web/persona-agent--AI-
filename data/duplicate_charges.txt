@@ -1,0 +1,6 @@
+Duplicate charges may occur due to repeated payment attempts.
+
+Resolution:
+1. Check transaction history
+2. Wait 3–5 days for automatic refund
+3. Contact support if not resolved

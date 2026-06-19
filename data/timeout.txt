@@ -1,0 +1,6 @@
+Timeout errors occur when the server takes too long to respond.
+
+Resolution:
+1. Retry request
+2. Check server load
+3. Optimize API calls

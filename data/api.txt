@@ -1,0 +1,11 @@
+API authentication requires a valid bearer token in the Authorization header.
+
+Common issues:
+- Missing token
+- Expired token
+- Incorrect header format
+
+Steps to resolve:
+1. Verify token is active
+2. Check header format: Authorization: Bearer <token>
+3. Regenerate token if expired

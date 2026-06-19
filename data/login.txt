@@ -1,0 +1,8 @@
+Login issues may occur due to:
+- Incorrect username or password
+- Account lock after multiple attempts
+
+Resolution:
+1. Reset password
+2. Wait 15 minutes after lock
+3. Contact support if issue persists

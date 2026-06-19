@@ -1,0 +1,6 @@
+Cache issues may prevent applications from loading properly.
+
+Steps:
+1. Clear browser cache
+2. Restart application
+3. Disable cache temporarily for testing
